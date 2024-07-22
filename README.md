@@ -1,1 +1,2 @@
-# web-ricomida
+#Bootcamp FullStack JS
+Ejercicio ricomida
