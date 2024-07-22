@@ -1,0 +1,59 @@
+@media (max-width: 576px) {
+    .tamanoPizza {
+        width: 15rem;
+
+    }
+    .alineacionSeccion1 {
+        text-align: center;
+    }
+}
+
+@media (min-width: 576px) {
+    .tamanoPizza {
+        width: 25rem;
+      
+    }
+    .alineacionSeccion1 {
+        text-align: left;
+    }
+}
+
+
+.fontTitulo {
+    font-family: "Lobster" !important;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    color: white;
+}
+
+.fontFooter {
+    font-family: "Lobster" !important;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.7rem;
+    color: white;
+}
+
+nav {
+    background-color: #373A3C;
+}
+
+.tituloSubscripcion {
+    font-family: "Cabin";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.4rem;
+
+
+}
+
+.subcripcion {
+    background-color: #DC3545;
+    color: white;
+}
+
+footer {
+    background-color: #373A3C;
+    color: white;
+}
